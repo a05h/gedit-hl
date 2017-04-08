@@ -2,15 +2,15 @@
 <style-scheme id="E081" name="E081" version="1.0">
 <author/>
 <_description>E081</_description>
-  <style background="#e2e2e2" foreground="#333232" name="text"/>
-  <style background="#3a407e" name="cursor"/>
-  <style background="#e52525" foreground="#ff6060" name="search-match"/>
-  <style foreground="#baa37c" name="def:string"/>
+  <style background="#f0f0f0" foreground="#323232" name="text"/>
+  <style background="#323232" name="cursor"/>
+  <style background="#e03d3d" foreground="#f0f0f0" name="search-match"/>
+  <style foreground="#b5812c" name="def:string"/>
   <style foreground="#9d3e3e" name="def:constant"/>
   <style foreground="#4c8c8e" name="def:number"/>
-  <style foreground="#769a97" name="def:statement"/>
-  <style foreground="#2a66b9" name="def:function"/>
+  <style foreground="#7b34a0" name="def:statement"/>
+  <style foreground="#2c558d" name="def:function"/>
   <style foreground="#4a4c64" name="def:preprocessor"/>
   <style foreground="#b1b1b1" name="def:comment"/>
-  <style foreground="#d0c8c8" name="def:type"/>
+  <style foreground="#2c558d" name="def:type"/>
 </style-scheme>
