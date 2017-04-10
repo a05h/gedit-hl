@@ -2,15 +2,20 @@
 <style-scheme id="L115" name="L115" version="1.0">
 <author/>
 <_description>L115</_description>
-  <style background="#2a2a2a" foreground="#dadbdc" name="text"/>
-  <style background="#6d78f7" name="cursor"/>
-  <style background="#723d08" foreground="#d4b755" name="search-match"/>
-  <style foreground="#9292de" name="def:string"/>
-  <style foreground="#525791" name="def:constant"/>
-  <style foreground="#b4adff" name="def:number"/>
-  <style foreground="#5e648e" name="def:statement"/>
-  <style foreground="#2a66b9" name="def:function"/>
-  <style foreground="#743ddd" name="def:preprocessor"/>
-  <style foreground="#6d6d6d" name="def:comment"/>
-  <style foreground="#d0c8c8" name="def:type"/>
+  <style foreground="#535353" background="#f8f8f8" name="text"/>
+  <style foreground="#535353" background="#37c7a5" name="selection"/>
+  <style foreground="#c9c9c9" background="#f8f8f8" name="line-numbers"/>
+  <style foreground="#f8f8f8" background="#717171" name="bracket-match"/>
+  <style foreground="#eeeeec" background="#cb2323" name="bracket-mismatch"/>
+  <style foreground="#a82020" background="#ffafaf" name="search-match"/>
+  <style foreground="#f57900" background="#fff0df" name="def:string"/>
+  <style foreground="#b5b5b5" name="def:comment"/>
+  <style foreground="#149328" name="def:constant"/>
+  <style foreground="#669693" name="def:special-constant"/>
+  <style foreground="#149328" name="def:floating-point"/>
+  <style foreground="#729fcf" name="def:identifier"/>
+  <style foreground="#3465a4" name="def:statement"/>
+  <style foreground="#ef2929" name="def:type"/>
+  <style foreground="#535353" name="cursor"/>
+  <style background="#ededed" name="current-line"/>
 </style-scheme>
