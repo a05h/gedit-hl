@@ -2,15 +2,41 @@
 <style-scheme id="E081" name="E081" version="1.0">
 <author/>
 <_description>E081</_description>
-  <style background="#e2e2e2" foreground="#333232" name="text"/>
-  <style background="#c63737" name="cursor"/>
-  <style background="#a27447" foreground="#e2e2e2" name="search-match"/>
-  <style foreground="#efac39" name="def:string"/>
-  <style foreground="#b42170" name="def:constant"/>
-  <style foreground="#6cd15f" name="def:number"/>
-  <style foreground="#5bb7b0" name="def:statement"/>
-  <style foreground="#2a66b9" name="def:function"/>
-  <style foreground="#a52828" name="def:preprocessor"/>
-  <style foreground="#989898" name="def:comment"/>
-  <style foreground="#d0c8c8" name="def:type"/>
+  <style foreground="#c5c8c6" background="#1d1f21" name="text"/>
+  <style foreground="#c5c8c6" background="#373b41" name="selection"/>
+  <style foreground="#4b4b4b" background="#1d1f21" name="line-numbers"/>
+  <style foreground="#1d1f21" background="#d4d4d4" name="bracket-match"/>
+  <style foreground="#a02424" background="#ef9494" underline="true" name="bracket-mismatch"/>
+  <style foreground="#4e4d27" background="#e6c65d" name="search-match"/>
+  <style foreground="#de935f" name="def:string"/>
+  <style foreground="#4b4b4b" name="def:comment"/>
+  <style foreground="#8c9440" name="def:constant"/>
+  <style foreground="#59aaa7" name="def:special-constant"/>
+  <style foreground="#8c9440" name="def:floating-point"/>
+  <style foreground="#6498c4" name="def:identifier"/>
+  <style foreground="#a87cb5" name="def:statement"/>
+  <style foreground="#d14f4f" name="def:type"/>
+  <style foreground="#c5c8c6" name="cursor"/>
+  <style background="#282a2e" name="current-line"/>
 </style-scheme>
+
+<!-- 
+1a1b1c
+  URxvt*color0: #282a2e
+  URxvt*color1: #a54242
+  URxvt*color2: #8c9440
+  URxvt*color3: #de935f
+  URxvt*color4: #5f819d
+  URxvt*color5: #85678f
+  URxvt*color6: #5e8d87
+  URxvt*color7: #707880
+
+  URxvt*color8: #373b41
+  URxvt*color9: #cc6666
+  URxvt*color10: #b5bd68
+  URxvt*color11: #f0c674
+  URxvt*color12: #81a2be
+  URxvt*color13: #b294bb
+  URxvt*color14: #8abeb7
+  URxvt*color15: #c5c8c6
+-->
