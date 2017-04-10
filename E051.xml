@@ -1,16 +1,21 @@
 <?xml version="1.0" ?>
-<style-scheme id="E081" name="E081" version="1.0">
+<style-scheme id="E051" name="E051" version="1.0">
 <author/>
-<_description>E081</_description>
-  <style background="#f0f0f0" foreground="#323232" name="text"/>
-  <style background="#323232" name="cursor"/>
-  <style background="#e03d3d" foreground="#f0f0f0" name="search-match"/>
-  <style foreground="#b5812c" name="def:string"/>
-  <style foreground="#9d3e3e" name="def:constant"/>
-  <style foreground="#4c8c8e" name="def:number"/>
-  <style foreground="#7b34a0" name="def:statement"/>
-  <style foreground="#2c558d" name="def:function"/>
-  <style foreground="#4a4c64" name="def:preprocessor"/>
-  <style foreground="#b1b1b1" name="def:comment"/>
-  <style foreground="#2c558d" name="def:type"/>
+<_description>E051</_description>
+  <style foreground="#fff6ec" background="#18120c" name="text"/>
+  <style foreground="#fff6ec" background="#463523" name="selection"/>
+  <style foreground="#463523" background="#18120c" name="line-numbers"/>
+  <style foreground="#18120c" background="#ffd6ad" name="bracket-match"/>
+  <style foreground="#18120c" background="#f15156" underline="true" name="bracket-mismatch"/>
+  <style foreground="#18120c" background="#fff3e7" name="search-match"/>
+  <style foreground="#e8af74" name="def:string"/>
+  <style foreground="#4b4b4b" name="def:comment"/>
+  <style foreground="#ffdcb9" name="def:constant"/>
+  <style foreground="#ffdcb9" name="def:special-constant"/>
+  <style foreground="#ffdcb9" name="def:floating-point"/>
+  <style foreground="#ffc07f" name="def:identifier"/>
+  <style foreground="#d19e68" name="def:statement"/>
+  <style foreground="#ffd1a1" name="def:type"/>
+  <style foreground="#fff6ec" name="cursor"/>
+  <style background="#2f2318" name="current-line"/>
 </style-scheme>
